@@ -4,7 +4,7 @@ This repo includes implementation of Double Deep Q Network (DDQN), Dueling DDQN,
 
 For more details on the implementation, you can check out my blog post at https://flyyufelix.github.io/2017/10/12/dqn-vs-pg.html.
 
-![DDQN Gif](/resources/ddqn.gif){:width="450"}
+<img src="/resources/a2c.gif" width="300">
 
 
 ## Results
